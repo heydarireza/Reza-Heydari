@@ -8,9 +8,7 @@
 ### WHAT I KNOW
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)
-![AZURE](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
 ![kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
-![istio](https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg)
 ![python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Nginx](https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg)
 ![ansible](https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg)
