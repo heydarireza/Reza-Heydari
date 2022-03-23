@@ -1,8 +1,8 @@
-<center>
+
 [![](https://img.shields.io/badge/-gmail-%23ff5252?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reza5441@gmail.com)
 [![](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)]( www.linkedin.com/in/heydari-reza)
 
-
+<center>
 <hr>
 
 ### WHAT I KNOW
